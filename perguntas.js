@@ -51,9 +51,3 @@ criaCartao(
     'Qual a diferença entre margin e padding?',
     'margin é o espaçamento externo enquanto padding é o espaçamento interno.'
 )
-
-criaCartao(
-    'Programação',
-    'Qual é a nossa matéria?',
-    'Matemática II - Resolução de Problemas'
-)
